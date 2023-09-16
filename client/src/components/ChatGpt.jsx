@@ -87,7 +87,7 @@ const ChatGpt = () => {
       'We are using free hosting platform, So please be patient as we establish our React-ChatGPT connection',
       {
         position: 'top-right',
-        autoClose: 7000,
+        autoClose: 5000,
         hideProgressBar: false,
         closeOnClick: true,
         pauseOnHover: true,
